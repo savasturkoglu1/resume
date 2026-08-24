@@ -40,3 +40,10 @@ python3 -m http.server 8000
 - E-posta: savasturkoglu.dev@gmail.com
 - Web: [thesaturn.co](https://thesaturn.co)
 - LinkedIn: [/in/savas-dev](https://linkedin.com/in/savas-dev)
+
+## Yayın
+
+Canlı sürüm: **https://savasturkoglu1.github.io/resume/**
+
+GitHub Pages, `main` dalının kökünden yayınlanır. `main`'e yapılan her push
+otomatik olarak siteye yansır.
