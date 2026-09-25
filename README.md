@@ -11,7 +11,7 @@ Kişisel özgeçmişimin kaynak deposu: tek sayfalık statik HTML sürüm + orij
 | `index.html` | Tek sayfalık HTML özgeçmiş (build adımı yok) |
 | `assets/styles.css` | Tüm stiller — açık/koyu tema + yazdırma stilleri |
 | `assets/savas-turkoglu-cv.pdf` | Orijinal PDF sürüm |
-| `assets/savas-turkoglu.jpg` | Portre görsel |
+| `assets/savas-turkoglu-2026.jpg` | Portre görsel |
 
 ## Çalıştırma
 
