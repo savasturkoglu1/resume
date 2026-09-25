@@ -38,7 +38,7 @@ python3 -m http.server 8000
 ## İletişim
 
 - E-posta: savasturkoglu.dev@gmail.com
-- Web: [thesaturn.co](https://thesaturn.co)
+- Web: [savasturkoglu.com](https://savasturkoglu.com)
 - LinkedIn: [/in/savas-dev](https://linkedin.com/in/savas-dev)
 
 ## Yayın
